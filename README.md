@@ -83,7 +83,7 @@
 <tr><td>NVIDIA-GRID-vSphere-8.0-535.54.06-535.54.03-536.25.zip</td><td><a href="https://mbd.pub/o/bread/Z56blZ5p">下载</a></td></tr>
 <tr><td>NVIDIA-GRID-vSphere-8.0-535.216.01-538.95.zip</td><td><a href="https://mbd.pub/o/bread/Z56blpdp">下载</a></td></tr>
 <tr><td>NVIDIA-GRID-vSphere-8.0-535.161.05-535.161.08-538.46.zip</td><td><a href="https://mbd.pub/o/bread/Z56blpZs">下载</a></td></tr>
-<tr><td>NVIDIA-GRID-vSphere-8.0-535.161.05-535.161.07-538.33.zip</td><td><a href="https://mbd.pub/o/bread/Z56blZ9t">下载</a></td></tr>
+<tr><td>NVIDIA-GRID-vSphere-8.0-535.161.05-535.161.07-538.33.zip</td><td><a href="https://mbd.pub/o/bread/YZaTmZ9tZg==">下载</a></td></tr>
 <tr><td>NVIDIA-GRID-vSphere-8.0-535.154.02-535.154.05-538.15.zip</td><td><a href="https://mbd.pub/o/bread/Z56blZ9q">下载</a></td></tr>
 <tr><td>NVIDIA-GRID-vSphere-8.0-525.105.14-525.105.17-528.89.zip</td><td><a href="https://mbd.pub/o/bread/Z56blZ1r">下载</a></td></tr>
 <tr><td>NVIDIA-GRID-vSphere-7.0-550.90.05-550.90.07-552.55.zip</td><td><a href="https://mbd.pub/o/bread/Z56blphy">下载</a></td></tr>
